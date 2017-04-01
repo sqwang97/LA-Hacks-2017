@@ -39,6 +39,10 @@
     padding-top: 30px;
 }
 
+.modal-title{
+    font-size: 18px;
+}
+
 #Name {
 	border-radius: 0px;
 	height: 40px;
@@ -76,6 +80,7 @@
     color: #ffffff;
     border-radius: 0px;
     border: 0;
+    font-size: 15px;
 }
 .searchBox {
     padding-left: 20px;

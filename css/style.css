@@ -24,6 +24,38 @@
     padding-right: 5px;
 }
 
+#Name {
+	border-radius: 0px;
+	height: 40px;
+    font-size: 15px;
+    width: 100px;
+    padding-right: 0px;
+}
+
+#Where {
+	border-radius: 0px;
+	height: 40px;
+    font-size: 15px;
+    width: 150px;
+    padding: 0px;
+}
+
+#Time {
+	border-radius: 0px;
+	height: 40px;
+    font-size: 15px;
+    width: 150px;
+    padding: 0px;
+}
+
+#Contact {
+	border-radius: 0px;
+	height: 40px;
+    font-size: 15px;
+    width: 150px;
+    padding-right: 0px;
+}
+
 .searchBox {
     padding-left: 20px;
 }
